@@ -21,7 +21,7 @@ Compile with
 	
 	$ gcc MatrixGenerator.c -o MatrixGenerator -lm
 
-## How to compile PowerMatrix tropical matrix product
+## How to compile PowerMatrix 
 
 power_matrix.c : Source code to make the power
 
