@@ -1,7 +1,5 @@
 # WastedDomination
 
-In this paper, we present a lower bound for the domination number of the Cartesian product of a path and a cycle that is tight if the length of the cycle is a multiple of five. This bound improves the natural lower bound obtained by using the domination number of the Cartesian product of two paths that is the best one known so far.
-
 Published in:
 
 - Bulletin of the Malaysian Mathematical Sciences Society: Bulletin of the Malaysian Mathematical Sciences Society publishes original and expository survey articles spanning all branches of mathematics.
@@ -9,6 +7,8 @@ Published in:
     + Coverage spans all branches of mathematics.
     + Published jointly with the Malaysian Mathematical Sciences Society and Penerbit Universiti Sains Malaysia.
 - A General Lower Bound for the Domination Number of Cylindrical Graphs. José Juan Carreño. José Antonio Martínez. María Luz Puertas. DOI: https://doi.org/10.1007/s40840-019-00765-1
+
+In this paper, we present a lower bound for the domination number of the Cartesian product of a path and a cycle that is tight if the length of the cycle is a multiple of five. This bound improves the natural lower bound obtained by using the domination number of the Cartesian product of two paths that is the best one known so far.
 
 ## How to compile CorrectWordGenerator
 
